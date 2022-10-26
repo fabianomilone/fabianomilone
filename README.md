@@ -3,6 +3,8 @@ fabianomilone/fabianomilone is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+<img src="https://user-images.githubusercontent.com/47993274/198093415-0e51c755-b606-4f36-ab8c-a482a145d580.png" style="width: 24px" align="left" /><strong>PHP Web Developer</strong>
+
 <!-- https://readme-stats-fabianomilone.vercel.app/ -->
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
