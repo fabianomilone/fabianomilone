@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://user-images.githubusercontent.com/47993274/198100297-ef5a7f1f-031b-4467-bad3-594bb5b6489e.png" style="width: 24px" align="left" /><strong>Most used languages: </strong>PHP, Html, JavaScript, MySql
 
-<img src="https://user-images.githubusercontent.com/47993274/198103592-cb93612a-f3bb-46b0-9e18-91ca7ed12793.png" style="width: 24px;" align="left" /><strong>Other known languages: </strong>React, C, Java, MATLAB, Assembly
+<img src="https://user-images.githubusercontent.com/47993274/198103592-cb93612a-f3bb-46b0-9e18-91ca7ed12793.png" style="width: 24px;" align="left" /><strong>Other known languages: </strong>C, Java, MATLAB, Assembly
 
 
 
