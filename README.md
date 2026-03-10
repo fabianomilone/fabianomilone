@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<img src="https://user-images.githubusercontent.com/47993274/198099322-937b3649-44e3-4e0b-a59c-828fbd1cdcc4.png" style="width: 24px" align="left" /><strong>PHP Web Developer</strong>
+<img src="https://user-images.githubusercontent.com/47993274/198099322-937b3649-44e3-4e0b-a59c-828fbd1cdcc4.png" style="width: 24px" align="left" /><strong>Backend Web Developer</strong>
 
 <img src="https://user-images.githubusercontent.com/47993274/198100297-ef5a7f1f-031b-4467-bad3-594bb5b6489e.png" style="width: 24px" align="left" /><strong>Most used languages: </strong>PHP, Html, JavaScript, MySql
 
